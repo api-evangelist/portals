@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://theportal.to/', status: 301, note: 'declared website redirects to https://portals.to/play — a different registrable domain (theportal.to -> portals.to), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/portals.png
 name: Portals
 description: 'Portals (theportal.to) is a consumer platform organized around three
